@@ -13,6 +13,7 @@ const theme = {
     primary_500: "#721198",
   },
 };
+
 root.render(
   <ThemeProvider theme={theme}>
     <App />
